@@ -1,0 +1,3 @@
+We finally got access of using GPU of Param Shavak at its peak position, started training of the dataset. After few days the training was completed on param shavak.
+We trained it for 150 EPochs with batch size of 16. 
+We have our outputs and for now we are trying to figure how to transfer the output files to our laptops.     
