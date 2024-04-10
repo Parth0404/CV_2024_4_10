@@ -1,3 +1,4 @@
-We finally got access of using GPU of Param Shavak at its peak position, started training of the dataset. After few days the training was completed on param shavak.
-We trained it for 150 EPochs with batch size of 16. 
-We have our outputs and for now we are trying to figure how to transfer the output files to our laptops.     
+18/03/2024 to 23/03/2024
+
+This week we had the dataset ready to train on param shavak but were told to redo the dataset by taking 125 images from each of 134 folders.
+This was a whole new thing and had to figure out the code to do the redoing of whole dataset. The week firstly we discussed the dataset how will we built it a new and figured the things out with team members.
